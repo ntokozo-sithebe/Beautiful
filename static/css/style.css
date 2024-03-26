@@ -1,0 +1,23 @@
+*,
+*, ::before
+*, ::after{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(173, 221, 230);
+}
+table{
+    margin: auto;
+    border: solid black 1px;
+}
+td, thead, th{
+    border: solid black 1px;
+}
+tr{
+    border: solid black 1px;
+} 
+    
